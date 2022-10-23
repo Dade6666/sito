@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Sep 2022 15:19:39 at https://www.voltacademy.it/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "it, en, *" https://www.voltacademy.it/ -O1 "C:\Mie pagine Web\volt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:19:40	Warning: 	Found for https://www.voltacademy.it/
+15:19:40	Warning: 	File has moved from https://www.voltacademy.it/ to https://www.voltacademy.it/home/
+15:19:46	Error: 	"Not Found" (404) at link https://www.voltacademy.it/assets/img/apple-touch-icon.html (from https://www.voltacademy.it/home/)
+15:19:56	Error: 	"Not Found" (404) at link https://www.voltacademy.it/home/Regolamento/ (from https://www.voltacademy.it/home/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/assets/ethnocentric (from https://www.voltacademy.it/assets/css/style.css)
+15:19:57	Error: 	"Forbidden" (403) at link https://www.voltacademy.it/assets/.../assets/img/animato_volt.gif (from https://www.voltacademy.it/assets/css/style.css)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/assets/css/assets/img/SfondoVuoto.png (from https://www.voltacademy.it/assets/css/style.css)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Social/ (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/cfx.re/join/b3oz3p (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/jquery/jquery.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/bootstrap/js/bootstrap.bundle.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/jquery.easing/jquery.easing.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/php-email-form/validate.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/waypoints/jquery.waypoints.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/counterup/counterup.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/isotope-layout/isotope.pkgd.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/venobox/venobox.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/vendor/owl.carousel/owl.carousel.min.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Novita/assets/js/main.js (from https://www.voltacademy.it/Novita/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/cfx.re/join/b3oz3p (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/jquery/jquery.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/bootstrap/js/bootstrap.bundle.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/jquery.easing/jquery.easing.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/php-email-form/validate.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/waypoints/jquery.waypoints.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/counterup/counterup.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/isotope-layout/isotope.pkgd.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/venobox/venobox.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/vendor/owl.carousel/owl.carousel.min.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Regolamento/assets/js/main.js (from https://www.voltacademy.it/Regolamento/)
+15:19:57	Error: 	"Not Found" (404) at link https://www.voltacademy.it/Home/Regolamento/ (from https://www.voltacademy.it/Home/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 74 links scanned, 43 files written (53949154 bytes overall) [52264186 bytes received at 2903565 bytes/sec], 2473199 bytes transferred using HTTP compression in 57 files, ratio 29%, 7.6 requests per connection
+(29 errors, 2 warnings, 0 messages)
